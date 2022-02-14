@@ -5,7 +5,7 @@
 - 💞️ I’m a frontend and backend developer...
 - 📫 How to reach me -> aly.ranzam@gmail.com
 
-<details>
+<details open>
 <summary>💻 𝕷𝖆𝖓𝖌𝖚𝖆𝖌𝖊𝖘, 𝕯𝕭 𝖆𝖓𝖉 𝕱𝖗𝖆𝖒𝖊𝖜𝖔𝖗𝖐𝖘</summary>
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="70" width="70"/>
@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="70" width="70"/>
 </details>
 
-<details>
+<details open>
 <summary>🛠 𝕿𝖔𝖔𝖑𝖘</summary>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="70" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="70" width="70"/>
