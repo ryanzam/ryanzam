@@ -37,8 +37,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="70" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-plain.svg" height="70" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain-wordmark.svg" height="70" width="70" />
-
 </details>
+
+<details open>
+  <summary>☁️ 𝖔𝖙𝖍𝖊𝖗𝖘</summary>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" height="70" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="70" width="70"/>
+  </details>
 
 <!---
 ryanzam/ryanzam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
