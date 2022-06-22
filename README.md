@@ -46,7 +46,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="70" width="70"/>
 
   </details>
-<img src=https://komarev.com/ghpvc/?username = ryanzam/>
+![](https://komarev.com/ghpvc/?username=ryanzam)
 
 <!---
 ryanzam/ryanzam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
