@@ -38,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain-wordmark.svg" height="70" width="70" />
 </details>
 
-<details>
+<details open>
   <summary>☁️ 𝖔𝖙𝖍𝖊𝖗𝖘</summary>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" height="70" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="70" width="70"/>
@@ -46,8 +46,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="70" width="70"/>
 
   </details>
-![](https://komarev.com/ghpvc/?username=ryanzam)
-
 <!---
 ryanzam/ryanzam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
