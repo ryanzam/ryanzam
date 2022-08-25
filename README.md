@@ -1,5 +1,5 @@
 ## 👊 🅷🅴🅻🅻🅾 🆆🅾🆁🅻🅳
-- 👋 I’m ryanzam.
+- 👋 I’m Ranjam.
 - 👀 Interested in technologies ..
 - 🌱 learning and exploring new technologies is one of my hobbies..
 - 💞️ I’m a frontend and backend developer...
