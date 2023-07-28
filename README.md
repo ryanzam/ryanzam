@@ -1,8 +1,7 @@
 ## 👊 🅷🅴🅻🅻🅾 🆆🅾🆁🅻🅳
 - 👋 I’m Ryanzam.
-- 👀 Interested in latest technologies, software architechture, design patterns ..
+- 🧠 Experience developer, interested in latest technologies, software architechture, design patterns..
 - 🌱 learning and exploring new technologies is one of my hobbies..
-- 💞️ I’m a frontend and backend developer...
 - 📫 How to reach me -> aly.ranzam@gmail.com
 
 <details open>
