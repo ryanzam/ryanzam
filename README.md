@@ -1,7 +1,7 @@
 ## 👊 🅷🅴🅻🅻🅾 🆆🅾🆁🅻🅳
 - 👋 I’m Ranjam.
-- 🧠 Experience developer, interested in latest technologies, software architechture, design patterns..
-- 🌱 learning and exploring new technologies is one of my hobbies..
+- 🧠 An experienced developer, interested in latest technologies, software architechture, design patterns..
+- 🌱 Learning and exploring new technologies is one of my hobbies..
 - 📫 How to reach me -> aly.ranzam@gmail.com
 
 <details open>
