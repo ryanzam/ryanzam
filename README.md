@@ -1,5 +1,4 @@
-## 👊 🅷🅴🅻🅻🅾 🆆🅾🆁🅻🅳
-- 👋 I’m Ranjam.
+![header](https://capsule-render.vercel.app/api?height=400&text=Hello%20World!&desc=I%27m%20Ranjam&animation=twinkling&fontColor=000000&color=gradient&customColorList=0,,2,5,30)
 - 🧠 An experienced developer, interested in latest technologies, software architechture, design patterns..
 - 🌱 Learning and exploring new technologies is one of my hobbies..
 - 📫 How to reach me -> aly.ranzam@gmail.com
