@@ -3,10 +3,6 @@
 - 🌱 Learning and exploring new technologies is one of my hobbies..
 - 📫 How to reach me -> aly.ranzam@gmail.com
 
-
-![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam5mY2ZnNGNuYnkxdXoyaHhhYzh0cmZuMm56MmRhcDg1bzd1cWRnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PZbXEcP6nadmoSjCua/giphy.gif)
-
-
 <details open>
 <summary>💻 𝕷𝖆𝖓𝖌𝖚𝖆𝖌𝖊𝖘, 𝕯𝕭 𝖆𝖓𝖉 𝕱𝖗𝖆𝖒𝖊𝖜𝖔𝖗𝖐𝖘</summary>
 <br>
