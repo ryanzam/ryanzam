@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20there!&reversal=false))
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20there!&reversal=false)
 - 🌱 I'm Ranjam 👋
 - 🧠 I'm a passionate and experienced Full-Stack Developer with a strong background in JavaScript, React, Node.js, and DotNet Core. I have a keen interest in building scalable and efficient web applications, and I'm always eager to learn new technologies.
 - 📫 How to reach me -> aly.ranzam@gmail.com
