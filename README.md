@@ -4,7 +4,7 @@
 - 📫 How to reach me -> aly.ranzam@gmail.com
 
 <details open>
-<summary>💻 𝕷𝖆𝖓𝖌𝖚𝖆𝖌𝖊𝖘, 𝕯𝕭 𝖆𝖓𝖉 𝕱𝖗𝖆𝖒𝖊𝖜𝖔𝖗𝖐𝖘</summary>
+<summary>💻 Skills</summary>
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="70" width="70"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="70" width="70"/>
@@ -22,7 +22,7 @@
 </details>
 
 <details open>
-<summary>🛠 𝕿𝖔𝖔𝖑𝖘</summary>
+<summary>🛠 Tools</summary>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="70" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="70" width="70"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="70" width="70"/>
@@ -33,7 +33,7 @@
 </details>
 
 <details open>
-  <summary>☁️ 𝖔𝖙𝖍𝖊𝖗𝖘</summary>
+  <summary>☁️ Others</summary>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" height="70" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" height="70" width="70"/>
 
