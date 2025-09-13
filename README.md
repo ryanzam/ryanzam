@@ -1,7 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20there!&reversal=false)
+
+<br>
+
+## 🙏 Short Intro
+
+<br>
+
 - 🌱 I'm Ranjam 👋
 - 🧠 A passionate and experienced Developer with a strong interest in building scalable, robust and efficient applications. With over 5 years of experience in the tech industry, I thrive on solving complex problems and building innovative solutions that make a difference.
 - 📫 How to reach me -> aly.ranzam@gmail.com
+
+<br>
+
+## 🏆 
+
+<br>
 
 <details open>
 <summary>💻 Skills</summary>
@@ -41,7 +54,9 @@ ryanzam/ryanzam is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 <br>
+
 ## ⚡️ Stats
+
 <br>
 
 <div align=center>
