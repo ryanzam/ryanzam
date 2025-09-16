@@ -1,14 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20there!&reversal=false)
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <br>
 
 ## 🙏 Short Intro
 
 <br>
 
-- 🌱 I'm Ranjam 👋
-- 🧠 A passionate and experienced Developer with a strong interest in building scalable, robust and efficient applications. With over 5 years of experience in the tech industry, I thrive on solving complex problems and building innovative solutions that make a difference.
-- 📫 How to reach me -> aly.ranzam@gmail.com
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=500&color=9F9F9F&multiline=true&width=1000&height=100&lines=%F0%9F%8C%B1+I'm+Ranjam+%F0%9F%91%8B+;%F0%9F%A7%A0+Experienced+Developer+with+a+strong+interest+in+building+scalable%2C+robust+and+efficient+applications.+With+over+5+years+of+experience+in+the+tech+industry%2C+I+thrive+on+solving+complex+problems+and+building+innovative+solutions.+;+%F0%9F%93%AB+How+to+reach+me+-%3E+aly.ranzam%40gmail.com)](https://git.io/typing-svg)
 
 <br>
 
@@ -37,3 +37,5 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <hr>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryanzam&theme=monokai&title=MultiLanguage,Repositories,Stars,Experience,PullRequest,Issues,Commits)](https://github.com/ryanzam/github-profile-trophy)
