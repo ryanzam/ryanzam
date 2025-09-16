@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20there!&reversal=false)
+<img src="./github-header-banner.png" />
 
 ![Jokes Card](https://readme-jokes.vercel.app/api) ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanzam&theme=algolia)
 
