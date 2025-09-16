@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20there!&reversal=false)
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api) ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanzam&theme=algolia)
 
 <br>
 
-## 🙏 Short Intro
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnkya3Q0YW44MmYwZ29qbnhwZDZiNGhjaXdibzQybjBhNHoybm9zbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/asCRsWMrcEdD7cvt2W/giphy.gif" width="25" /> Short Intro
 
 <br>
 
@@ -12,7 +12,7 @@
 
 <br>
 
-## 🏆 Languages, Frameworks & Tools
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25">  Languages, Frameworks & Tools
 
 <br>
 
@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <br>
 
-## ⚡️ Stats
+## <span><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" /> <span>Stats</span></span>
 
 <br>
 
