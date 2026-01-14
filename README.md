@@ -36,10 +36,6 @@ You can click the Preview link to take a look at your changes.
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanzam&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Ranjam's Most Used Languages" />
 </div>
 
-<hr>
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
 <hr />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryanzam&theme=monokai&title=MultiLanguage,Repositories,Stars,Experience,PullRequest,Issues,Commits)](https://github.com/ryanzam/github-profile-trophy)
