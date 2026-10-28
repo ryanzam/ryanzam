@@ -1,14 +1,10 @@
 <img src="./github-header-banner.png" />
 
-![Jokes Card](https://readme-jokes.vercel.app/api) ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanzam&theme=algolia)
-
-<br>
-
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnkya3Q0YW44MmYwZ29qbnhwZDZiNGhjaXdibzQybjBhNHoybm9zbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/asCRsWMrcEdD7cvt2W/giphy.gif" width="25" /> Short Intro
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=24&duration=2000&pause=500&color=9F9F9F&multiline=true&width=1000&height=100&lines=%F0%9F%8C%B1+I'm+Ranjam+%F0%9F%91%8B+;%F0%9F%A7%A0+Experienced+Developer+a+building+scalable%2C+robust+and+efficient+applications.+With+over+5+years+of+experience+in+the+tech+industry%2C+I+thrive+on+solving+complex+problems+and+building+innovative+solutions.+;+%F0%9F%93%AB+How+to+reach+me+-%3E+aly.ranzam%40gmail.com)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=24&duration=2000&pause=500&color=9F9F9F&multiline=true&width=1000&height=100&lines=%F0%9F%8C%B1+I'm+Ranjam+%F0%9F%91%8B+;%F0%9F%A7%A0+Experienced+Developer+a+building+scalable%2C+robust+and+efficient+applications.+With+over+6+years+of+experience+in+the+tech+industry%2C+I+thrive+on+solving+complex+problems+and+building+innovative+solutions.+;+%F0%9F%93%AB+How+to+reach+me+-%3E+aly.ranzam%40gmail.com)](https://git.io/typing-svg)
 
 <br>
 
