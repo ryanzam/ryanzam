@@ -2,35 +2,35 @@
 
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnkya3Q0YW44MmYwZ29qbnhwZDZiNGhjaXdibzQybjBhNHoybm9zbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/asCRsWMrcEdD7cvt2W/giphy.gif" width="25" /> Short Intro
 
-<br>
+### Full-Stack Engineer | React, Next.js, Node.js, .NET Core & Blazor
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=24&duration=2000&pause=500&color=9F9F9F&multiline=true&width=1000&height=100&lines=%F0%9F%8C%B1+I'm+Ranjam+%F0%9F%91%8B+;%F0%9F%A7%A0+Experienced+Developer+a+building+scalable%2C+robust+and+efficient+applications.+With+over+6+years+of+experience+in+the+tech+industry%2C+I+thrive+on+solving+complex+problems+and+building+innovative+solutions.+;+%F0%9F%93%AB+How+to+reach+me+-%3E+aly.ranzam%40gmail.com)](https://git.io/typing-svg)
+A result-driven Full-Stack Engineer focused on building scalable, secure, and high-performing software solutions that directly drive business revenue. With deep expertise spanning modern JavaScript/TypeScript ecosystems and enterprise-grade .NET architectures, I bridge the gap between robust backend engineering and seamless, interactive user experiences.
 
-<br>
+🌍 Open to local & remote opportunities </br>
+✉️ Contact: aly.ranzam@gmail.com
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25">  Technologies, Frameworks & Tools
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25">  Tech Stack & Tooling
 
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,vite" /> <br />
-  <img src="https://skillicons.dev/icons?i=nextjs,mongodb,postgres,prisma,cs,dotnet,azure,vercel,git,postman" />
-</p>
-<!---
-ryanzam/ryanzam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<br>
+| Domain | Technologies |
+| :--- | :--- |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,next,ts,js,tailwind,wasm,vite,redux" /> |
+| **Backend & APIs** | <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,prisma,cs,graphql.postman" /> |
+| **Databases & State** |  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase" /> |
+| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=github,azure,vercel,heroku" /> |
+| **Others**| <img src="https://skillicons.dev/icons?i=jest,vitest,selenium,vscode,visualstudio,webstorm" /> |
+---
 
 ## <span><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" /> <span>Stats</span></span>
 
-<br>
-
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ryanzam&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Ranjam's GitHub Stats" />
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ryanzam&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Ranjam's" />
 </div>
 
 <hr />
 
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDZlNGp2NWd2aHg5eTBldjFpMWRuaXhwbGV4NWlwam96ZGo0bXlpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UnyKXModRZbJZiJhSW/giphy.gif" width="25" />  Let's Connect
+- 🌐 **Portfolio & Website:** [ryanzam.is-a.dev](https://is-a.dev)
+- 💼 **LinkedIn:** [/in/aramazan](https://linkedin.com)
+
+</br >
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryanzam&theme=monokai&title=MultiLanguage,Repositories,Stars,Experience,PullRequest,Issues,Commits)](https://github.com/ryanzam/github-profile-trophy)
