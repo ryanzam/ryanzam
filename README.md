@@ -31,6 +31,3 @@ A result-driven Full-Stack Engineer focused on building scalable, secure, and hi
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDZlNGp2NWd2aHg5eTBldjFpMWRuaXhwbGV4NWlwam96ZGo0bXlpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UnyKXModRZbJZiJhSW/giphy.gif" width="25" />  Let's Connect
 - 🌐 **Portfolio & Website:** [ryanzam.is-a.dev](https://is-a.dev)
 - 💼 **LinkedIn:** [/in/aramazan](https://linkedin.com)
-
-</br >
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryanzam&theme=monokai&title=MultiLanguage,Repositories,Stars,Experience,PullRequest,Issues,Commits)](https://github.com/ryanzam/github-profile-trophy)
