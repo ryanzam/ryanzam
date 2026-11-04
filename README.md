@@ -4,7 +4,7 @@
 
 ### Full-Stack Engineer | React, Next.js, Node.js, .NET Core & Blazor
 
-A result-driven Full-Stack Engineer focused on building scalable, secure, and high-performing software solutions that directly drive business revenue. With deep expertise spanning modern JavaScript/TypeScript ecosystems and enterprise-grade .NET architectures, I bridge the gap between robust backend engineering and seamless, interactive user experiences.
+A result-driven Full-Stack Engineer focused on building scalable, secure, and high-performing software solutions that drive business revenue. With deep expertise spanning modern JavaScript/TypeScript ecosystems and enterprise-grade .NET architectures, I bridge the gap between robust backend engineering and seamless, interactive user experiences.
 
 🌍 Open to local & remote opportunities </br>
 ✉️ Contact: aly.ranzam@gmail.com
@@ -29,5 +29,5 @@ A result-driven Full-Stack Engineer focused on building scalable, secure, and hi
 <hr />
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDZlNGp2NWd2aHg5eTBldjFpMWRuaXhwbGV4NWlwam96ZGo0bXlpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UnyKXModRZbJZiJhSW/giphy.gif" width="25" />  Let's Connect
-- 🌐 **Portfolio & Website:** [ryanzam.is-a.dev](https://is-a.dev)
-- 💼 **LinkedIn:** [/in/aramazan](https://linkedin.com)
+- 🌐 **Portfolio:** [ryanzam.is-a.dev](https://ryanzam.is-a.dev)
+- 💼 **LinkedIn:** [/in/aramazan](https://linkedin.com/in/aramazan)
